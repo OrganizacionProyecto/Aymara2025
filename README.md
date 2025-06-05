@@ -2,6 +2,8 @@
 
 Este proyecto es un ecommerce para una tienda dietética llamada **Aymara**, desarrollado con **Django** en el backend y **Angular** en el frontend. La aplicación permite realizar compras en línea, gestionar productos y categorías, y administrar pedidos de manera eficiente.
 
+Tambien cuenta con su app mobile. Esta fue desarrollada con **Andorid Studio**. La app permite desde registrarse, iniciar sesion, ver perfil, productos, favoritos, hasta realizar compras a traves de **Mercado Pago**.
+
 ## 🚀 **Funcionalidades Principales**
 
 * Registro de usuarios con validaciones y autenticación.
@@ -15,6 +17,7 @@ Este proyecto es un ecommerce para una tienda dietética llamada **Aymara**, des
 
 * Backend: Django, Django REST Framework, SQL
 * Frontend: Angular, TypeScript, HTML, CSS
+* App mobile: Android Studio, Java.
 * Base de datos: SQLite (local), PostgreSQL (producción en aymara.pythonanywhere.com)
 * Autenticación: JWT
 
@@ -23,6 +26,7 @@ Este proyecto es un ecommerce para una tienda dietética llamada **Aymara**, des
 * Local: Backend ejecutado localmente con SQLite.
 * Producción: Backend desplegado en [aymara.pythonanywhere.com](https://aymara.pythonanywhere.com), con frontend conectado a dicho backend.
 * Frontend desplegado en [aymara.netlify.app](https://aymara.netlify.app)
+* Apk de app mobile 
 
 
 ## 📦 **Instalación y Configuración**
