@@ -4,6 +4,11 @@ Este proyecto es un ecommerce para una tienda dietética llamada **Aymara**, des
 
 Tambien cuenta con su app mobile. Esta fue desarrollada con **Andorid Studio**. La app permite desde registrarse, iniciar sesion, ver perfil, productos, favoritos, hasta realizar compras a traves de **Mercado Pago**.
 
+##  **Repositorios**
+* La parte **Web** del proyecto se encuentra en: https://github.com/OrganizacionProyecto/Proyecto-TSDWAD
+* La parte **Mobile** se encuentra en: https://github.com/OrganizacionProyecto/Aymara-App
+* La documentacion completa (Videos, ceremonias, documentos, informacion, etc) se encuentra en la wiki de **Este mismo repositorio**: https://github.com/OrganizacionProyecto/Aymara2025/wiki
+
 ## 🚀 **Funcionalidades Principales**
 
 * Registro de usuarios con validaciones y autenticación.
